@@ -22,7 +22,8 @@ A complete log of my web development progress from scratch. This includes skills
 |  **GitHub**          |          ⏳          |
 |  **Mobile First**    |          ✅          |         ⏳             |
 | 
-|  **Figma**           |          ⏳          |        
+|  **Figma**           |          ✅          |        
+|  **Origami**         |          ⏳
 
 ---
 ---
@@ -35,7 +36,7 @@ A complete log of my web development progress from scratch. This includes skills
 |   ✅      | [HTML and CSS (Interneting is Hard)]         | March 2021    | Oliver James  |
 |   ⏳      | [The Web Developer Bootcamp]                 | March 2021    | [Colt Steele] |
 |   ✅      | [Flexbox Zombies]                            | March 2021    | Dave Geddes   |
-|   ⏳      | [Design Code (UI Design for Developers)]     | April 2021    | Meng To       |
+|   ✅      | [Design Code (UI Design for Developers)]     | April 2021    | Meng To       |
 
 
 
