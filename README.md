@@ -21,7 +21,6 @@ A complete log of my web development progress from scratch. This includes skills
 |  **Markdown**        |          ✅          |         ⏳             |
 |  **GitHub**          |          ⏳          |
 |  **Mobile First**    |          ✅          |         ⏳             |
-| 
 |  **Figma**           |          ✅          |         ⏳             |   
 |  **Origami**         |          ✅          |                        |
 
