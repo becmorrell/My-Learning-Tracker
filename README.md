@@ -18,12 +18,12 @@ A complete log of my web development progress from scratch. This includes skills
 |     **CSS**          |          ✅          |         ✅              |
 | **Responsive Design**|          ✅          |         ✅ 
 |  **Javascript**      |          ✅          |                        
-|  **Markdown**        |          ⏳          |
+|  **Markdown**        |          ✅          |         ⏳             |
 |  **GitHub**          |          ⏳          |
 |  **Mobile First**    |          ✅          |         ⏳             |
 | 
-|  **Figma**           |          ✅          |        
-|  **Origami**         |          ⏳
+|  **Figma**           |          ✅          |         ⏳             |
+|  **Origami**         |          ✅          |
 
 ---
 ---
@@ -37,7 +37,7 @@ A complete log of my web development progress from scratch. This includes skills
 |   ⏳      | [The Web Developer Bootcamp]                 | March 2021    | [Colt Steele] |
 |   ✅      | [Flexbox Zombies]                            | March 2021    | Dave Geddes   |
 |   ✅      | [Design Code (UI Design for Developers)]     | April 2021    | Meng To       |
-
+|   ✅      | [Origami tutorials]                          | May 2021      |
 
 
 [//]:# (Reference links to courses)
