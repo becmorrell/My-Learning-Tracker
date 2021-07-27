@@ -14,15 +14,15 @@ A complete log of my web development progress from scratch. This includes skills
 
 |        Skill         |  1<br>Introduction   |  2<br>Occasional Use   |   3<br>Regular Use     |
 |:--------------------:| :-------------------:| :---------------------:| :---------------------:|
-|     **HTML**         |          ✅          |         ✅              |                        |
-|     **CSS**          |          ✅          |         ✅              |
+|     **HTML**         |          ✅          |         ✅             |                        |
+|     **CSS**          |          ✅          |         ✅             |
 | **Responsive Design**|          ✅          |         ✅ 
 |  **Javascript**      |          ✅          |                        
 |  **Markdown**        |          ✅          |         ⏳             |
-|  **GitHub**          |          ⏳          |
+|  **GitHub**          |          ✅          |         ✅ 
 |  **Mobile First**    |          ✅          |         ⏳             |
-|  **Figma**           |          ✅          |         ⏳             |   
-|  **Origami**         |          ✅          |                        |
+|  **Figma**           |          ✅          |         ✅             |   
+|  **Origami**         |          ✅          |         ✅             |
 
 ---
 ---
