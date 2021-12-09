@@ -17,10 +17,10 @@ A complete log of my web development progress from scratch. This includes skills
 |     **HTML**         |          ✅          |         ✅             |                        |
 |     **CSS**          |          ✅          |         ✅             |                        |
 | **Responsive Design**|          ✅          |         ✅             |                       | 
-|  **Javascript**      |          ✅          |                        |                        |
-|  **Markdown**        |          ✅          |         ⏳             |                         |
+|  **Javascript**      |          ✅          |         ⏳               |                        |
+|  **Markdown**        |          ✅          |         ✅              |                         |
 |  **GitHub**          |          ✅          |         ✅             |       ✅                |
-|  **Mobile First**    |          ✅          |         ⏳             |                         |
+|  **Mobile First**    |          ✅          |         ✅             |                         |
 |  **Figma**           |          ✅          |         ✅             |       ✅                |
 |  **Origami**         |          ✅          |         ✅             |       ✅                |
 
