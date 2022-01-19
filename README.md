@@ -14,15 +14,15 @@ A complete log of my web development progress from scratch. This includes skills
 
 |        Skill         |  1<br>Introduction   |  2<br>Occasional Use   |   3<br>Regular Use     |
 |:--------------------:| :-------------------:| :---------------------:| :---------------------:|
-|     **HTML**         |          ✅          |         ✅             |                        |
-|     **CSS**          |          ✅          |         ✅             |                        |
-| **Responsive Design**|          ✅          |         ✅             |                       | 
-|  **Javascript**      |          ✅          |         ⏳               |                        |
-|  **Markdown**        |          ✅          |         ✅              |                         |
-|  **GitHub**          |          ✅          |         ✅             |       ✅                |
-|  **Mobile First**    |          ✅          |         ✅             |                         |
-|  **Figma**           |          ✅          |         ✅             |       ✅                |
-|  **Origami**         |          ✅          |         ✅             |       ✅                |
+|     **HTML**         |          ✅          |         ✅             |        ✅              |
+|     **CSS**          |          ✅          |         ✅             |        ✅              |
+| **Responsive Design**|          ✅          |         ✅             |        ✅              | 
+|  **Javascript**      |          ✅          |         ✅             |        ⏳              |
+|  **Markdown**        |          ✅          |         ✅             |        ✅              |
+|  **GitHub**          |          ✅          |         ✅             |        ✅              |
+|  **Mobile First**    |          ✅          |         ✅             |        ✅              |
+|  **Figma**           |          ✅          |         ✅             |        ✅              |
+|  **Origami**         |          ✅          |         ✅             |        ✅              |
 
 ---
 ---
@@ -34,10 +34,10 @@ A complete log of my web development progress from scratch. This includes skills
 |   ✅      | [Learn Programming]                         | January 2021   | [Jad Joubran] |
 |   ✅      | [HTML and CSS (Interneting is Hard)]         | March 2021    | Oliver James  |
 |   ⏳      | [The Web Developer Bootcamp]                 | March 2021    | [Colt Steele] |
-|   ✅      | [Flexbox Zombies]                            | March 2021    | Dave Geddes   |
+|   ✅      | [Flexbox Zombies]                            | March 2021    | [Dave Geddes] |
 |   ✅      | [Design Code (UI Design for Developers)]     | April 2021    | Meng To       |
-|   ✅      | [Origami tutorials]                          | May 2021      | 
-
+|   ✅      | [Origami tutorials]                          | May 2021      | Various       |
+|   ⏳      | [Grid Critters]                              | Jan 2022      | [Dave Geddes] |
 
 [//]:# (Reference links to courses)
 [Learn Programming]:https://learnprogramming.online/
@@ -45,6 +45,7 @@ A complete log of my web development progress from scratch. This includes skills
 [The Web Developer Bootcamp]: https://www.udemy.com/course/the-web-developer-bootcamp/
 [Flexbox Zombies]:  https://flexboxzombies.com/p/flexbox-zombies 
 [Design Code (UI Design for Developers)]: https://designcode.io/ui-design
+[Grid Critters]: https://gridcritters.com/
 
 
 [//]:# (Reference links to tutors)
