@@ -45,6 +45,7 @@ A complete log of my web development progress from scratch. This includes skills
 [The Web Developer Bootcamp]: https://www.udemy.com/course/the-web-developer-bootcamp/
 [Flexbox Zombies]:  https://flexboxzombies.com/p/flexbox-zombies 
 [Design Code (UI Design for Developers)]: https://designcode.io/ui-design
+[Origami tutorials]: https://origami.design/tutorials/
 [Grid Critters]: https://gridcritters.com/
 
 
