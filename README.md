@@ -23,6 +23,7 @@ A complete log of my web development progress from scratch. This includes skills
 |  **Mobile First**    |          ✅          |         ✅             |        ✅              |
 |  **Figma**           |          ✅          |         ✅             |        ✅              |
 |  **Origami**         |          ✅          |         ✅             |        ✅              |
+|  ** Vue **           |          ✅          |         ⏳             |                        |
 
 ---
 ---
@@ -38,6 +39,7 @@ A complete log of my web development progress from scratch. This includes skills
 |   ✅      | [Design Code (UI Design for Developers)]     | April 2021    | Meng To       |
 |   ✅      | [Origami tutorials]                          | May 2021      | Various       |
 |   ⏳      | [Grid Critters]                              | Jan 2022      | [Dave Geddes] |
+
 
 [//]:# (Reference links to courses)
 [Learn Programming]:https://learnprogramming.online/
