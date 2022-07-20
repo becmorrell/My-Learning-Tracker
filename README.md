@@ -23,7 +23,8 @@ A complete log of my web development progress from scratch. This includes skills
 |  **Mobile First**    |          ✅          |         ✅             |        ✅              |
 |  **Figma**           |          ✅          |         ✅             |        ✅              |
 |  **Origami**         |          ✅          |         ✅             |        ✅              |
-|  **Vue**           |          ✅          |         ⏳             |                        |
+|  **Vue**           |          ✅          |            ✅           |         ⏳               |
+|  **Tailwind**       |          ✅           |           ✅           |        ⏳             |
 
 ---
 ---
