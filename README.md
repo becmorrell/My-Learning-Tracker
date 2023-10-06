@@ -72,8 +72,7 @@ A complete log of my web development progress from scratch. This includes skills
 [Meng To]: https://twitter.com/MengTo
 [Net Ninja]: https://twitter.com/thenetninjauk
 ----
-----
-## Highlights 
+
 
 
 
