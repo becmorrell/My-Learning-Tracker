@@ -23,15 +23,15 @@ A complete log of my web development progress from scratch. This includes skills
 |  **Mobile First**    |          ✅          |         ✅             |        ✅              |
 |  **Figma**           |          ✅          |         ✅             |        ✅              |
 |  **Origami**         |          ✅          |         ✅             |        ✅              |
-|  **Vue / Nuxt**           |          ✅          |            ✅           |         ✅               |
+|  **Vue / Nuxt**           |          ✅          |            ✅           |         ✅       |
 |  **Bootstrap**       |          ✅           |           ✅           |        ✅             |
 |  **Tailwind**       |          ✅           |           ✅           |        ✅             |
 |  **Storybook** (MDX)|          ✅           |           ✅           |        📝            |
 |  **JQuery**       |          ✅           |           ✅           |        📝             |
 |  **React / Next** |              ✅         |           ✅           |          📝           |
 |  **Drupal**   |              ✅         |           ✅           |          📝           |
-
 |  **Cypress**       |          ✅           |           ✅           |        📝             |
+|  **Typescript**     |          ✅           |           ✅           |        📝            |
 
 
 ---
