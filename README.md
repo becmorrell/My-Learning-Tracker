@@ -28,10 +28,10 @@ A complete log of my web development progress from scratch. This includes skills
 |  **Tailwind**       |          ✅           |           ✅           |        ✅             |
 |  **Storybook** (MDX)|          ✅           |           ✅           |        📝            |
 |  **JQuery**       |          ✅           |           ✅           |        📝             |
-|  **React / Next** |              ✅         |           ✅           |          📝           |
+|  **React / Next** |              ✅         |           ✅           |          ✅          |
 |  **Drupal**   |              ✅         |           ✅           |          📝           |
-|  **Cypress**       |          ✅           |           ✅           |        📝             |
-|  **Typescript**     |          ✅           |           ✅           |        📝            |
+|  **Cypress**       |          ✅           |           ✅           |        ✅             |
+|  **Typescript**     |          ✅           |           ✅           |        ✅            |
 
 
 ---
@@ -48,8 +48,9 @@ A complete log of my web development progress from scratch. This includes skills
 |   ✅      | [Design Code (UI Design for Developers)]     | April 2021    | Meng To       |
 |   ✅      | [Origami tutorials]                          | May 2021      | Various       |
 |   ✅      | [Grid Critters]                              | Jan 2022      | [Dave Geddes] |
-|    📝      | [Net Ninja: JQuery]                          | May 203      | [Net Ninja] |
-|   📝     | [React Tutorial]                              | June 2023      | [Jad Joubran] |
+|   ✅     | [React Tutorial]                              | Nov 2022      | [Jad Joubran] |
+|   ✅      | [Net Ninja: JQuery]                          | May 2023      | [Net Ninja] |
+
 
 
 
